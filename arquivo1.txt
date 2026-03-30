@@ -1,4 +1,3 @@
 Faculdade Uniesp
 Curso: Ciência da computação
-Nathan Moura
-Tópicos Essencias para Programação
+Respondendo a lista de exercício do GitHub
